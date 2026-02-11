@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.claude/
+.frd_unzip/
+*.docx
+*.zip
